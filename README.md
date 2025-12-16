@@ -30,12 +30,10 @@ Tüm geçerli isimleri bulup yazdıracaksın (Yaklaşık 47 tane).
 
 
 4. Sezar Şifrelemesi (String İşlemleri)
-
 Kullanıcıdan mesaj ve anahtar (key) alıp metni şifreleyeceksin (Harf kaydırma).
 Şifreli metni varsayılan bir anahtarla çözen bir fonksiyon yazacaksın.
 
 
 5. Kaçış Labirenti (2D Diziler)
-
 5x5'lik bir matriste 1 (yol) ve 0 (duvar) olacak.
 (0,0) noktasından (4,4) noktasına giden yolu bulup ekrana çizdireceksin.
