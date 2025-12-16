@@ -7,7 +7,7 @@ char mesaj[200], sifrelimesaj[200];
 
 // Fonksiyon prototipleri
 void sezarsifreleme(char mesaj[], int x);
-void sezarsifreçözme(char sifrelimesaj[], int y);
+void sezarsifrecozme(char sifrelimesaj[], int y);
 
 int main()
 {
@@ -21,7 +21,7 @@ int main()
     printf("\n\n");
 
     // Şifre çözme işlemini başlat
-    sezarsifreçözme(sifrelimesaj, y);
+    sezarsifrecozme(sifrelimesaj, y);
 
     return 0;
 }
@@ -63,7 +63,7 @@ void sezarsifreleme(char mesaj[], int x)
 
 // Sezar Şifre Çözme Fonksiyonu
 // Şifreli mesajı belirtilen anahtar değeri kadar geri kaydırır
-void sezarsifreçözme(char sifrelimesaj[], int y)
+void sezarsifrecozme(char sifrelimesaj[], int y)
 {
     int i;
     printf("Cozmek istediginiz mesaji Girin: ");
@@ -92,4 +92,5 @@ void sezarsifreçözme(char sifrelimesaj[], int y)
     {
         printf("%c", sifrelimesaj[i]);
     }
+
 }
