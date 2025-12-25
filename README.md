@@ -2,14 +2,14 @@
 
 Bu proje, Bilgisayar Mühendisliği 1. sınıf Güz/Bahar dönemi için hazırlanmıştır.
 
-## 🚀 Proje Hakkında
+##  Proje Hakkında
 Bu program C dili ile yazılmıştır.
 
-## 🛠 Kullanılanlar
+##  Kullanılanlar
 - C Programlama Dili
 - VS Code
 
-## 👤 Hazırlayan
+##  Hazırlayan
 Yusuf Kenan Kiyak
 
 Soruların Özeti
